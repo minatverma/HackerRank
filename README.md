@@ -1,2 +1,2 @@
 # HackerRank
-Codes from hackerRrank submissions
+Codes from Hacker Rank submissions
