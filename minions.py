@@ -8,9 +8,9 @@ def minion(string):
     all_word = []
     person_a_words = 0
     person_b_words = 0
-
+    
     all_word = (letter_list[start:end+1] for start in xrange(l) for end in xrange(start, l))
-
+    
     for idx, letter in enumerate(letter_list):
         if letter in vowel:
             person_b_words += len(letter_list) - idx
